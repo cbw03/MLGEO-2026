@@ -1,5 +1,6 @@
 ---
 layout: spec
+title: Syllabus
 ---
 
 
