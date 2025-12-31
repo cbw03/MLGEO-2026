@@ -9,3 +9,7 @@ url = "assignments"
   [entries.post_list]
   section = "assignments"
   show_more = false
+
+[[entries]]
+title = "Course repository"
+url = "https://github.com/UW-MLGEO/MLGEO-2026"
