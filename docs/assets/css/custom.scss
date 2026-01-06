@@ -22,3 +22,16 @@ h1 {
     font-size: 2.2rem;
     text-transform: uppercase;
 }
+
+/* Custom horizontal rule */
+hr {
+    border: none;
+    border-top: 1px solid currentColor;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    &:before, &:after {
+        content: none;
+    }
+}

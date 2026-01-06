@@ -2,6 +2,8 @@
 title: Syllabus
 date: 2025-01-05
 draft: false
+toc: true
+tocBorder: true
 ---
 
 ## Logistics
