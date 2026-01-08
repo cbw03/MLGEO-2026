@@ -5,4 +5,4 @@ David Caro
 First year grad student 
 
 ## Major
-Geology (2023)
+Earth and space sciences
